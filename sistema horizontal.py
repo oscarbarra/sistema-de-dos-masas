@@ -1,5 +1,6 @@
 #abrir como carpeta
 #definicion de las constantes 
+#probando el commit
 P1 = 0; P2 = 0; M1 = 0; M2 = 0; T = 0; A = 0 ; F = 0; complemento = ''; repeticion = ''
 
 #creacion de los modelos
