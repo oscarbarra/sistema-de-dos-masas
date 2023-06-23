@@ -5,3 +5,4 @@
 #sabemos que no es la manera y por lo cual en la entrega fianl ya vamos a tener todo como dicta la estructura dada en clases 
 #'video explicativo'
 #https://drive.google.com/file/d/1xs55K2y43AWdVuGJKfj0T5hjbmyXFWc5/view?usp=drive_link
+#tutoriales
