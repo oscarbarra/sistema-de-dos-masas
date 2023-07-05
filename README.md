@@ -7,24 +7,29 @@ que pudiera saciar las consultas de un usuario
 
 Para comenzar buscamos los distintos sistemas fisicos con los que va a operar nuestra calculadora.
 Seleccionamos los tres casos más usuales: 
-1- dos masas en un sistema horizontal: ![Alt text](image.png)
-2- dos masas en un plano inclinado con 1 angulo:  ![Alt text](image-1.png)
-3- dos masas en un plano inclinado con 2 angulos: ![Alt text](image-2.png)
+1- dos masas en un sistema horizontal: 
+![Alt text](image.png)
+
+2- dos masas en un plano inclinado con 1 angulo:
+  ![Alt text](image-1.png)
+  
+3- dos masas en un plano inclinado con 2 angulos:
+ ![Alt text](image-2.png)
 
 El primer caso es facil de reconocer ya que siempre que empujemos un objeto con la intencion de moverlo se estaria 
 bajo un modelo de sistema horizontal.
 el modelaje y la matematica usada para encontrar la aceleracion y la tension seran explicados más en detalle en un
 video que se encontrara en la parte final del documento
-"inmagen"
+![Alt text](horizontal-1.jpg)
 
 el segundo caso
 
-"imagen"
+![Alt text](<1 angulo.jpg>)
 
 
 el tercer caso
 
-"imagen"
+![Alt text](<2 angulos.jpg>)
 
 
 Luego de terminar el modelaje de los 3 sistemas solo restava programar la calculadora magica.
