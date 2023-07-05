@@ -16,8 +16,7 @@ Seleccionamos los tres casos más usuales:
 3- dos masas en un plano inclinado con 2 angulos:
  ![Alt text](image-2.png)
 
-El primer caso es facil de reconocer ya que siempre que empujemos un objeto con la intencion de moverlo se estaria 
-bajo un modelo de sistema horizontal.
+El primer caso
 el modelaje y la matematica usada para encontrar la aceleracion y la tension seran explicados más en detalle en un
 video que se encontrara en la parte final del documento
 ![Alt text](horizontal-1.jpg)
@@ -57,4 +56,8 @@ una solucion a los problemas que iban surguiendo, para que finalmente terminara 
 en algo que faltaba, a ultimo momento cuando ya estaba listo para subirlo me encontraba con la sorpresa de que ya estaba 
 listo y que un compañero de trabajo habia sido más rapidp que yo.
 
-"video explicativo"
+"video explicativo fisico"
+link: https://drive.google.com/file/d/1MfSUssFbS2kW9226kGn8kGyifownRPPz/view?usp=sharing
+
+"video del programa funcionando"
+link: https://drive.google.com/file/d/1WOzny1DIcN7gKRCYPefjY8G16cAGMfuY/view?usp=sharing
